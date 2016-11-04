@@ -1,0 +1,15 @@
+@import "base/variables";
+
+// foundation
+@import "base/foundation-settings";
+@import "foundation";
+@include foundation-everything;
+
+// Componenets
+
+// Site
+
+
+input[type=search] {
+  box-shadow: none;
+}
